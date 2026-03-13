@@ -1,0 +1,6 @@
+ID,Text,Comment
+calloatti.syncmods.ButtonCancel,Done,
+calloatti.syncmods.ButtonRestart,Restart game,
+calloatti.syncmods.ButtonRestartLoad,Restart + Load,
+calloatti.syncmods.ButtonSync,Sync,
+calloatti.syncmods.SyncDialogboxText,Mods synced successfully from internal save data.,

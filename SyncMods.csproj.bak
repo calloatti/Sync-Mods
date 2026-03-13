@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
@@ -34,17 +34,25 @@
   <ItemGroup>
     <Reference Include="0Harmony">
       <HintPath>..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Timberborn\Timberborn_Data\Managed\0Harmony.dll</HintPath>
+    <Private>False</Private>
+    <Private>False</Private>
     </Reference>
     <Reference Include="Bindito.Core">
       <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Timberborn\Timberborn_Data\Managed\Bindito.Core.dll</HintPath>
+    <Private>False</Private>
+    <Private>False</Private>
     </Reference>
     <Reference Include="Newtonsoft.Json">
       <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Timberborn\Timberborn_Data\Managed\Newtonsoft.Json.dll</HintPath>
+    <Private>False</Private>
+    <Private>False</Private>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Collections.Immutable, Version=9.0.0.11, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Timberborn\Timberborn_Data\Managed\System.Collections.Immutable.dll</HintPath>
+    <Private>False</Private>
+    <Private>False</Private>
       <Private>False</Private>
     </Reference>
     <Reference Include="System.Core" />
@@ -56,51 +64,81 @@
     <Reference Include="System.Xml" />
     <Reference Include="Timberborn.BaseComponentSystem">
       <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Timberborn\Timberborn_Data\Managed\Timberborn.BaseComponentSystem.dll</HintPath>
+    <Private>False</Private>
+    <Private>False</Private>
     </Reference>
     <Reference Include="Timberborn.Common, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Timberborn\Timberborn_Data\Managed\Timberborn.Common.dll</HintPath>
+    <Private>False</Private>
+    <Private>False</Private>
     </Reference>
     <Reference Include="Timberborn.CoreUI">
       <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Timberborn\Timberborn_Data\Managed\Timberborn.CoreUI.dll</HintPath>
+    <Private>False</Private>
+    <Private>False</Private>
     </Reference>
     <Reference Include="Timberborn.EntitySystem, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Timberborn\Timberborn_Data\Managed\Timberborn.EntitySystem.dll</HintPath>
+    <Private>False</Private>
+    <Private>False</Private>
     </Reference>
     <Reference Include="Timberborn.GameSaveRepositorySystem">
       <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Timberborn\Timberborn_Data\Managed\Timberborn.GameSaveRepositorySystem.dll</HintPath>
+    <Private>False</Private>
+    <Private>False</Private>
     </Reference>
     <Reference Include="Timberborn.Localization">
       <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Timberborn\Timberborn_Data\Managed\Timberborn.Localization.dll</HintPath>
+    <Private>False</Private>
+    <Private>False</Private>
     </Reference>
     <Reference Include="Timberborn.MainMenuPanels">
       <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Timberborn\Timberborn_Data\Managed\Timberborn.MainMenuPanels.dll</HintPath>
+    <Private>False</Private>
+    <Private>False</Private>
     </Reference>
     <Reference Include="Timberborn.Modding">
       <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Timberborn\Timberborn_Data\Managed\Timberborn.Modding.dll</HintPath>
+    <Private>False</Private>
+    <Private>False</Private>
     </Reference>
     <Reference Include="Timberborn.ModdingUI, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Timberborn\Timberborn_Data\Managed\Timberborn.ModdingUI.dll</HintPath>
+    <Private>False</Private>
+    <Private>False</Private>
     </Reference>
     <Reference Include="Timberborn.ModManagerScene">
       <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Timberborn\Timberborn_Data\Managed\Timberborn.ModManagerScene.dll</HintPath>
+    <Private>False</Private>
+    <Private>False</Private>
     </Reference>
     <Reference Include="Timberborn.SaveMetadataSystem">
       <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Timberborn\Timberborn_Data\Managed\Timberborn.SaveMetadataSystem.dll</HintPath>
+    <Private>False</Private>
+    <Private>False</Private>
     </Reference>
     <Reference Include="Timberborn.SaveSystem">
       <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Timberborn\Timberborn_Data\Managed\Timberborn.SaveSystem.dll</HintPath>
+    <Private>False</Private>
+    <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine">
       <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Timberborn\Timberborn_Data\Managed\UnityEngine.dll</HintPath>
+    <Private>False</Private>
+    <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine.CoreModule">
       <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Timberborn\Timberborn_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+    <Private>False</Private>
+    <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine.UIElementsModule">
       <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Timberborn\Timberborn_Data\Managed\UnityEngine.UIElementsModule.dll</HintPath>
+    <Private>False</Private>
+    <Private>False</Private>
     </Reference>
   </ItemGroup>
   <ItemGroup>
