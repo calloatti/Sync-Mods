@@ -2,7 +2,7 @@
   "Name": "Sync Mods",
   "Version": "2.0.0",
   "Id": "calloatti.syncmods",
-  "MinimumGameVersion": "1.0.0.0",
+  "MinimumGameVersion": "1.0.12.5",
   "Description": "Adds a button to the Load Game screen to automatically sync your active mods with the save file.",
   "RequiredMods": [{"Id": "Harmony", "MinVersion": "2.4.1"}],
   "OptionalMods": []
