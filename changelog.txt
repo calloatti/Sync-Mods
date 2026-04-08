@@ -1,0 +1,7 @@
+2.0.0
+Fixes
+1.0.4
+Uses powershell to restart on Windows, previous method failed sometimes.
+1.0.3
+Uses PID detection on restart instead of fixed 5 s timer
+Changes to syncmodsinternal, group duplicate id mods, prioriize enabling local mod
