@@ -1,5 +1,17 @@
-SyncMods
+﻿Sync Mods
+
+https://github.com/calloatti/Sync-Mods
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=3666643622
 
-Adds a button to the Load Game screen to automatically sync your active mods with a saved file.
+Mods on GitHub
+
+https://github.com/search?q=owner%3Acalloatti+sort%3Aname-asc+%22Timberborn+Mod%22&type=repositories
+
+Mods on Steam Workshop
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=3682179025
+
+Mods zip files
+
+https://github.com/calloatti/ModZips
