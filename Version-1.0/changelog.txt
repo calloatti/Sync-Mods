@@ -1,7 +1,13 @@
-2.0.0
-Fixes
-1.0.4
-Uses powershell to restart on Windows, previous method failed sometimes.
-1.0.3
-Uses PID detection on restart instead of fixed 5 s timer
-Changes to syncmodsinternal, group duplicate id mods, prioriize enabling local mod
+--------------------------------------------------------------------------------
+Game Version: 1.0.0.0
+Mod Version: 2.0.0
+- Fixes
+--------------------------------------------------------------------------------
+Game Version: 1.0.0.0
+Mod Version: 1.0.4
+- Uses powershell to restart on Windows, previous method failed sometimes.
+--------------------------------------------------------------------------------
+Game Version: 1.0.0.0
+Mod Version: 1.0.3
+- Uses PID detection on restart instead of fixed 5 s timer
+- Changes to syncmodsinternal, group duplicate id mods, prioritize enabling local mod
