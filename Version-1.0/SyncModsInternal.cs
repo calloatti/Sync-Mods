@@ -238,9 +238,4 @@ namespace Calloatti.SyncMods
         }
     }
 
-    [Context("MainMenu")]
-    internal class MainMenuSyncConfigurator : Configurator
-    {
-        protected override void Configure() => Bind<SyncModsinternal>().AsSingleton();
-    }
 }
