@@ -1,0 +1,6 @@
+ID,Text,Comment
+calloatti.syncmods.ButtonCancel,"Tamam",
+calloatti.syncmods.ButtonRestart,"Oyunu yeniden başlat",
+calloatti.syncmods.ButtonRestartLoad,"Yeniden Başlat + Yükle",
+calloatti.syncmods.ButtonSync,"Senkronize et",
+calloatti.syncmods.SyncDialogboxText,"Modlar dahili kayıt verilerinden başarıyla senkronize edildi.",

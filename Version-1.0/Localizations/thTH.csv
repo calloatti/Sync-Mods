@@ -1,0 +1,6 @@
+ID,Text,Comment
+calloatti.syncmods.ButtonCancel,"เสร็จสิ้น",
+calloatti.syncmods.ButtonRestart,"เริ่มเกมใหม่",
+calloatti.syncmods.ButtonRestartLoad,"เริ่มใหม่ + โหลด",
+calloatti.syncmods.ButtonSync,"ซิงค์",
+calloatti.syncmods.SyncDialogboxText,"ซิงค์มอดสำเร็จจากข้อมูลบันทึกภายใน",

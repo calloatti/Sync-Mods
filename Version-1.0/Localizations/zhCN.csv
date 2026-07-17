@@ -1,0 +1,6 @@
+ID,Text,Comment
+calloatti.syncmods.ButtonCancel,"完成",
+calloatti.syncmods.ButtonRestart,"重启游戏",
+calloatti.syncmods.ButtonRestartLoad,"重启并加载",
+calloatti.syncmods.ButtonSync,"同步",
+calloatti.syncmods.SyncDialogboxText,"已从内部存档数据成功同步模组。",

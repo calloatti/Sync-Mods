@@ -1,0 +1,6 @@
+ID,Text,Comment
+calloatti.syncmods.ButtonCancel,"Готово",
+calloatti.syncmods.ButtonRestart,"Перезапустить игру",
+calloatti.syncmods.ButtonRestartLoad,"Перезапустить + Загрузить",
+calloatti.syncmods.ButtonSync,"Синхронизировать",
+calloatti.syncmods.SyncDialogboxText,"Моды успешно синхронизированы из внутренних данных сохранения.",

@@ -1,0 +1,6 @@
+ID,Text,Comment
+calloatti.syncmods.ButtonCancel,"Gotowe",
+calloatti.syncmods.ButtonRestart,"Uruchom ponownie grę",
+calloatti.syncmods.ButtonRestartLoad,"Uruchom ponownie + Wczytaj",
+calloatti.syncmods.ButtonSync,"Synchronizuj",
+calloatti.syncmods.SyncDialogboxText,"Mody zsynchronizowane pomyślnie z wewnętrznych danych zapisu.",

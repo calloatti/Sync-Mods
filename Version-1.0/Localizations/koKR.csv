@@ -1,0 +1,6 @@
+ID,Text,Comment
+calloatti.syncmods.ButtonCancel,"완료",
+calloatti.syncmods.ButtonRestart,"게임 다시 시작",
+calloatti.syncmods.ButtonRestartLoad,"다시 시작 + 불러오기",
+calloatti.syncmods.ButtonSync,"동기화",
+calloatti.syncmods.SyncDialogboxText,"내부 저장 데이터에서 모드가 성공적으로 동기화되었습니다.",

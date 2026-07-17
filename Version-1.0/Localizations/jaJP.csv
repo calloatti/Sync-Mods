@@ -1,0 +1,6 @@
+ID,Text,Comment
+calloatti.syncmods.ButtonCancel,"完了",
+calloatti.syncmods.ButtonRestart,"ゲームを再起動",
+calloatti.syncmods.ButtonRestartLoad,"再起動＋ロード",
+calloatti.syncmods.ButtonSync,"同期",
+calloatti.syncmods.SyncDialogboxText,"内部セーブデータからModを正常に同期しました。",
